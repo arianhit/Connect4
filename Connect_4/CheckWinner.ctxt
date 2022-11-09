@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CheckWinner
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AllInOne\ here.\r\n\r\n\ @author\ (Arian\ Dehghani)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=boardIn
+comment1.target=CheckWinner(Board)
+comment2.params=r\ c
+comment2.target=boolean\ horizontalWin(int,\ int)
+comment3.params=r\ c
+comment3.target=boolean\ verticalWin(int,\ int)
+comment4.params=r\ c
+comment4.target=boolean\ RightWard\u0000Win(int,\ int)
+comment5.params=r\ c
+comment5.target=boolean\ LeftWard\u0000Win(int,\ int)
+comment6.params=
+comment6.target=boolean\ checkWinVertical()
+comment7.params=
+comment7.target=boolean\ checkWinHorizontal()
+comment8.params=
+comment8.target=boolean\ checkLeftWard\u0000Win()
+comment9.params=
+comment9.target=boolean\ checkRightWard\u0000Win()
+numComments=10
